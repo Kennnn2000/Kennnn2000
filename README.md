@@ -17,7 +17,7 @@
 ## Skils
 
 ### Languages
-<img alt="my skills" src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,java,py" />
+<img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=html,css,js,ts,react,cs,java,py" />
 
 ## Other
 <p>Private Account.</p>
