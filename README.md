@@ -10,4 +10,11 @@
     </tr>
   </tbody>
 </table>
+
+## Skils
+
+### Languages
+<img alt="my skills" src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,java,py" />
+
+## Other
 <p>Private Account.</p>
