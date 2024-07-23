@@ -14,7 +14,7 @@
    </table>
 </details>
 
-## Skils
+## Skills
 
 ### Languages
 <img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=html,css,js,ts,react,cs,java,py" />
