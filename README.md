@@ -1,5 +1,5 @@
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>GitHub Status</summary>
   <table>
     <tbody>
       <tr>
