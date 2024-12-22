@@ -22,7 +22,7 @@
 ## Skills
 
 ### Language/Framework/Library
-<img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=html,css,js,ts,react,php,cs,java,py" />
+<img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=html,css,js,ts,php,cs,java,py,haskell,react" />
 
 ### Database
 <img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=postgres" />
