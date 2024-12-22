@@ -21,7 +21,7 @@
 
 ## Skills
 
-### Language/Framework/Library
+### Language/Framework/Library Level3↑
 <img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=html,css,js,ts,php,cs,java,py,haskell,react" />
 
 ### Database
