@@ -28,7 +28,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=postgres" />
 
 ### Studying
-<img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=rust,go,cpp,scala,bun" />
+<img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=ruby,rust,go,cpp,scala,bun" />
 
 ## Other
 <p>Private Account.</p>
