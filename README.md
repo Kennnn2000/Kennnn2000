@@ -29,7 +29,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=postgres" />
 
 ### Studying
-<img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=ruby,rust,go,cpp,scala,kotlin,bun" />
+<img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=ruby,rust,go,cpp,scala,kotlin,ocaml,bun" />
 
 ## Other
 <p>Private Account.</p>
