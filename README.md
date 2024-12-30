@@ -28,7 +28,7 @@
 ### Database
 <img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=postgres" />
 
-### Studying
+### Studying/will study
 <img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=ruby,rust,go,cpp,scala,kotlin,ocaml,bun" />
 
 ## Other
